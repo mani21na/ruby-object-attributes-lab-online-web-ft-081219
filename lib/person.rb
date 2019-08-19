@@ -4,6 +4,10 @@ class Person
   end
   
   def name
+    @name
+  end
+  
+  def
     
   end
 end
